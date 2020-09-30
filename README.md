@@ -1,5 +1,5 @@
 # WebsocketsGame
 Para instalar el sistema de paquetes:
-$ npm init
+$ npm install
 Para correr el juego:
 $ npm run dev
